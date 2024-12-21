@@ -2,7 +2,6 @@
 
 # Argo 域名
 ARGO_DOMAIN="bbxray.collagenetwork.us.kg"
-
 # 失败计数
 ARGO_FAILURE_COUNT=0
 MAX_FAILURES=3
