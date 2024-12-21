@@ -8,7 +8,7 @@ MAX_FAILURES=3
 
 # 本地端口号连接两个一样的端口
 PORT=36460
-ARGO_PORT=36460
+ARGO_PORT=49158
 
 # Argo 配置信息
 ARGO_AUTH='{"AccountTag":"8c8f172ec4f157c12d699b11517ac1ef","TunnelSecret":"mp3DrVeZqZhlJu6tW34ncQqs/PMgFTLN0YjoEod+ixI=","TunnelID":"a5cd05bf-c1ca-47c2-982b-b1cbf6e836ae"}
