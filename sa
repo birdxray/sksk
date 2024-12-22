@@ -1,17 +1,17 @@
 #!/bin/bash
 
 # Argo 域名
-ARGO_DOMAIN="bbxray.collagenetwork.us.kg"
+ARGO_DOMAIN="finlanddiod58s54ehyyifbt.collagenetwork.us.kg"
 # 失败计数
 ARGO_FAILURE_COUNT=0
 MAX_FAILURES=3
 
 # 本地端口号连接两个一样的端口
-PORT=36460
+PORT=49158
 ARGO_PORT=49158
 
 # Argo 配置信息
-ARGO_AUTH='{"AccountTag":"8c8f172ec4f157c12d699b11517ac1ef","TunnelSecret":"mp3DrVeZqZhlJu6tW34ncQqs/PMgFTLN0YjoEod+ixI=","TunnelID":"a5cd05bf-c1ca-47c2-982b-b1cbf6e836ae"}
+ARGO_AUTH='{"AccountTag":"8c8f172ec4f157c12d699b11517ac1ef","TunnelSecret":"uMpA9A2tlLsXg2Q2LHU3HIt2o5ImJottEFDRqSPdTMc=","TunnelID":"0cf3b2b0-944e-4aaf-a07d-ee57c06ed0be"}
 '
 CFPORT=443
 CFIP='zula.ir'
